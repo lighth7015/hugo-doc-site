@@ -2,14 +2,14 @@
 # provide your domain here
 baseURL = "https://examplesite.com/"
 # theme
-theme = "dot"
+# theme = "dot"
 # site title
 title = "Giza Developer Network"
 # desable language
 disableLanguages = []
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
 
 ################################# navigation ################################
 [[menu.main]]
